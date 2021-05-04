@@ -1,0 +1,6 @@
+usr/local/bin/abp-qt usr/bin
+share/pixmaps/abp32.xpm usr/share/pixmaps
+share/pixmaps/abp16.xpm usr/share/pixmaps
+share/pixmaps/abp128.png usr/share/pixmaps
+debian/abp-qt.desktop usr/share/applications
+debian/abp-qt.protocol usr/share/kde4/services/

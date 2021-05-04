@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Bitcoin Core
+Comment=Connect to the Abp P2P Network
+Exec=abp-qt %u
+Terminal=false
+Type=Application
+Icon=abp128
+MimeType=x-scheme-handler/abp;
+Categories=Office;Finance;
+StartupWMClass=Abp-qt
+Name[en_US]=abp-qt
